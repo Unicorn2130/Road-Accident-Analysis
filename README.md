@@ -1,5 +1,5 @@
 # Road-Accident-Analysis
-This project focuses on the analysis of road accident data of the years 2021 and 2022. The primary objective is to extract meaningful insights and trends to help monitor key performance indicators (KPIs) related to road safety. The data preprocessing, analysis, and visualization are conducted using a combination of MS Excel, SQL, and Tableau.
+This project focuses on the analysis of road accident data of the years 2019 to 2022. The primary objective is to extract meaningful insights and trends to help monitor key performance indicators (KPIs) related to road safety. The data preprocessing, analysis, and visualization are conducted using a combination of MS Excel, SQL, and Tableau.
 
 # Features
 Data Preprocessing with MS Excel:
